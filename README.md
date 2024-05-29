@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicarmendariz
 - 👀 I’m interested in Front End Programming
-- 🌱 I’m currently working on a degree in Computer Technology
+- 🌱 I’m currently working on a Master's Degree in Computer Science
 
 <!---
 jessicarmendariz/jessicarmendariz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
