@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jessicarmendariz
-- 👀 I’m interested in Front End Programming
+- 👀 I’m interested in Front End Programming, Data Analytics, ML/AI
 - 🌱 I’m currently working on a Master's Degree in Computer Science
 
 <!---
